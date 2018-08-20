@@ -1,4 +1,4 @@
-Discover popular and top rated with the Popular Movies app. The data is updated every 3 days to retrieve latest information on movies including trailers, ratings, and user reviews.
+###### Discover popular and top rated with the Popular Movies app. The data is updated every 3 days to retrieve latest information on movies including trailers, ratings, and user reviews.
 
 - Easy to navigate user interface.
 - Browse top rated and popular movies.
